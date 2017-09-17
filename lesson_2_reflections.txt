@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-- The .git folder containing all informations about the upcoming commits will be created
+- The .git folder containing all informations about the upcoming commits will be created.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- The staging area sits between the working directory and the repository as a buffer, it helps to prepare what you want to add.
