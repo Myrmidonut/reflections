@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- The .git folder containing all informations about the upcoming commits will be created
