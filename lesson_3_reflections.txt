@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+- A remote repository allows accesing the commits from different computers, or for different users working on the same project.
